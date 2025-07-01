@@ -1,0 +1,25 @@
+sentence-transformers==4.1.0
+langchain==0.3.26
+flask==3.1.1
+pypdf==5.6.1
+python-dotenv==1.1.0
+langchain-pinecone==0.2.8
+langchain-community==0.3.26
+langchain-core
+langchain-openai==0.3.24
+langchain_groq
+langchain-together
+langchain-huggingface
+langchain-chroma
+sentence-transformers==4.1.0
+pydantic
+pinecone
+openai
+tiktoken
+aiofiles
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+python-dotenv
+-e .
